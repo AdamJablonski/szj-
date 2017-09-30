@@ -7,10 +7,10 @@ Spotkania z Javą - formularz
 4. Serwlet odczytuje parametry i na ich podstawie wyświetla formularz
 
 Wymagania: Uruchomiony WildFly 10, z folderu WildFly:
-$ ./bin/standalone.sh
+`$ ./bin/standalone.sh`
 
 Uruchomienie:
-$ mvn clean install wildfly:deploy
+`$ mvn clean install wildfly:deploy`
 
-W przegladarce:
-http://localhost:8080/szj-servlet-form/form
+W przeglądarce:
+`http://localhost:8080/szj-servlet-form/form`
